@@ -1,3 +1,2 @@
 # learn-vocab
-eiei
-pingingin.github.io/learn-vocab
+<pingingin.github.io/learn-vocab>
